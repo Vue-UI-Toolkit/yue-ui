@@ -276,3 +276,18 @@ import '../packages/theme-default/lib/index.css'
 
 Vue.use(TTUI)
 ```
+
+
+##
+
+- [element](https://github.com/ElemeFE/element)
+- [iview](https://github.com/iview/iview)
+- [heyui](https://github.com/heyui/heyui)
+- [markdown-it-container](https://cnpmjs.org/package/markdown-it-container)
+- [markdown-it](https://github.com/markdown-it/markdown-it)
+
+- [从零开始搭建 Vue 组件库](https://zhuanlan.zhihu.com/p/30948290)
+
+- [使用 webpack4 搭建一个基于Vue的组件库](https://juejin.im/post/5b68244e6fb9a04fb212d1a0)
+
+- [揭秘组件库一二事](https://my.oschina.net/qiangdada/blog/1637920)
